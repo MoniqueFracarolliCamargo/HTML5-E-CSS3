@@ -16,14 +16,14 @@
 - `Funcionalidade 2`: Produtos ofertados e preços.
 - `Funcionalidade 3`: Formulário do site.
 
-![Vídeo site](https://user-images.githubusercontent.com/92823605/156895579-a3708a30-8e97-4215-8027-3480bfd47c80.mp4)
+![gif](https://user-images.githubusercontent.com/92823605/156896142-ed67243a-ebf9-4402-85e4-9c9194998043.gif)
 
 ## :computer: Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 
-## Confira o site 
+## :star2: Confira o site 
 
 <a href="https://moniquefracarollicamargo.github.io/HTML5-E-CSS3/">BARBEARIA ALURA</a>
 
